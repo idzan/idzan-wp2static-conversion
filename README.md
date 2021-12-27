@@ -9,7 +9,7 @@
 ## to do  
 
 * fix projects not exporting correctly
-* site optimizations with autooptimize  
+* site optimizations with autooptimize - partialy done  
 * more image compression  
 * fix deploying static site, check older project on netlify - done  
 * other things that might find, lol
