@@ -8,8 +8,9 @@
 
 ## to do  
 
-* fix projects not exporting correctly
-* site optimizations with autooptimize - partialy done  
+* fix projects not exporting correctly - found error, pods not loading correctly
+* site optimizations with wp-optimize - partialy done, mostly minify and db cleanup  
 * more image compression  
 * fix deploying static site, check older project on netlify - done  
+* fix nav menu, glitching  
 * other things that might find, lol
