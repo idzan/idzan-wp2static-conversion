@@ -11,5 +11,5 @@
 * fix projects not exporting correctly
 * site optimizations with autooptimize  
 * more image compression  
-* fix deploying static site, check older project on netlify  
+* fix deploying static site, check older project on netlify - done  
 * other things that might find, lol
