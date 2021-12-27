@@ -10,7 +10,7 @@
 
 * fix projects not exporting correctly - found error, pods not loading correctly
 * site optimizations with wp-optimize - partialy done, mostly minify and db cleanup  
-* more image compression  
+* more image compression - done  
 * fix deploying static site, check older project on netlify - done  
-* fix nav menu, glitching  
-* other things that might find, lol
+* fix nav menu, glitching - fixd 
+* other things that might find, lol - fixd, some css errors lol  
