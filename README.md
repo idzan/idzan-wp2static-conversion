@@ -8,4 +8,4 @@
 
 ## to do  
 
-* fix scrolling nav on desktop bug on homepage, contact section if on it isn't selected by menu propperly  
+* fix scrolling nav on desktop bug on homepage, contact section if on it isn't selected by menu propperly (firefox issue, works in chrome and edge on windows 11)  
